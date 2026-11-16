@@ -1,0 +1,16 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Python environments
+.venv/
+venv/
+
+# Generated controller state
+catalunya_state.json
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db

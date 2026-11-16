@@ -247,13 +247,11 @@ Actual results will be added after simulation testing.
 
 ## 11. Video Demonstration
 
-The demonstration video should show:
+The following video demonstrates the F1TENTH autonomous racing controller and its operation.
 
-- The vehicle driving on the Catalunya track.
-- The lap counter.
-- The timer and individual lap times.
-- The vehicle completing the required laps.
-- Evidence of the 10 consecutive laps without collisions.
+**Simulation Video:** [Watch the F1TENTH Catalunya Demonstration](https://www.youtube.com/watch?v=gBrnQjDW3K0)
+
+The video is provided as visual evidence of the project implementation and controller operation.
 
 ## 12. Author
 
